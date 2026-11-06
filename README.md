@@ -5,7 +5,7 @@ Sistema de controle de compras de uma quitanda em C, com cadastro, busca por cli
 
 Programa em linguagem C para registrar e consultar as compras de uma quitanda, com os dados salvos em arquivo de texto.
 
-Trabalho final da disciplina [nome da disciplina] – [curso], [instituição], [ano].
+Trabalho final da disciplina [Programação de Computadores] – [Sistemas de Informação], [Unilasalle], [2026].
 
 ## Funcionalidades
 
