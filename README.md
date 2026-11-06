@@ -30,7 +30,7 @@ gcc quitanda.c -o quitanda
 ./quitanda
 ```
 
-Ou rode online, sem instalar nada: [OnlineGDB](https://www.onlinegdb.com/hap9Y45Ck)
+Ou rode online, sem instalar nada: [OnlineGDB]([https://www.onlinegdb.com/hap9Y45Ck](https://www.onlinegdb.com/hap9Y45Ck))
 
 ## Formato do arquivo de dados
 
